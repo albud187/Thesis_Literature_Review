@@ -1,0 +1,3 @@
+A* algorithm
+dijkstra's algorithm
+path planning with dynamic obstacles - Vemula et al
