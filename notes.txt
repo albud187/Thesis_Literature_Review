@@ -1,3 +1,6 @@
+To learn / read:
+
 A* algorithm
 dijkstra's algorithm
 path planning with dynamic obstacles - Vemula et al
+ROS_global_planner
